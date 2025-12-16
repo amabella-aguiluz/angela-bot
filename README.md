@@ -11,9 +11,8 @@
 ## Prerequisites
 
 - Python
-- Check out the `requirements.txt` and install all the pakages. Use `pip install -r requirements.txt` to install them
+- Check out the `requirements.txt` and install all the packages. Use `pip install -r requirements.txt` to install them
 
 ## What I Learned
 -   Using **Pycord** for Discord bot development
 -   Working with APIs in Pycord (ex. Praw API)
--   Deploying a Python bot to an online server using fps.ms
